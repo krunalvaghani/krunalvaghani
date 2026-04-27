@@ -1,6 +1,6 @@
 # Hi, I'm Krunal 👋
 
-AI Engineer with 7+ years building end-to-end AI systems — 
+AI Engineer with 7+ years building end-to-end AI systems — https://github.com/krunalvaghani/krunalvaghani/blob/main/README.md
 from data pipelines and model development to MLOps, 
 cloud infrastructure, and Generative AI.
 
@@ -13,7 +13,7 @@ cloud infrastructure, and Generative AI.
 
 ## Currently
 - 🔭 Building in public — sharing AI engineering tools, templates & experiments
-- 🌱 Exploring Agentic AI, RAG systems & coding agents
+- 🌱 Implementing Agentic AI, RAG systems & coding agents
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/krunalvaghani)
