@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Krunal 👋
 
-<!--
-**krunalvaghani/krunalvaghani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer with 7+ years building end-to-end AI systems — 
+from data pipelines and model development to MLOps, 
+cloud infrastructure, and Generative AI.
 
-Here are some ideas to get you started:
+## What I work with
+- **ML & CV** — YOLO, Faster R-CNN, MobileNet, TensorFlow
+- **MLOps** — Automated retraining, model versioning, CI/CD
+- **Data** — Kafka, Airflow, AWS (S3, Redshift, Glue, Athena)
+- **GenAI** — LLMs, RAG, Agentic AI, Coding Agents
+- **Infra** — Terraform, Docker, AWS, Bitbucket Pipelines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- 🔭 Building in public — sharing AI engineering tools, templates & experiments
+- 🌱 Exploring Agentic AI, RAG systems & coding agents
+
+## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/krunalvaghani)
+[![GitHub Pages](https://img.shields.io/badge/GitHub.io-black?style=flat&logo=github)](https://krunalvaghani.github.io)
