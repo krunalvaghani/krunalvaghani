@@ -1,13 +1,13 @@
 # Hi, I'm Krunal 👋
 
-AI Engineer with 7+ years building end-to-end AI systems — https://github.com/krunalvaghani/krunalvaghani/blob/main/README.md
+AI Engineer with 7+ years building end-to-end AI systems,
 from data pipelines and model development to MLOps, 
 cloud infrastructure, and Generative AI.
 
 ## What I work with
-- **ML & CV** — YOLO, Faster R-CNN, MobileNet, TensorFlow
-- **MLOps** — Automated retraining, model versioning, CI/CD
-- **Data** — Kafka, Airflow, AWS (S3, Redshift, Glue, Athena)
+- **ML & CV** — YOLO, Faster R-CNN, MobileNet, TensorFlow, PyTorch
+- **MLOps** — Automated training/retraining, model versioning, CI/CD
+- **Data** — Kafka, Airflow, dbt, AWS (S3, Redshift, Glue, Athena)
 - **GenAI** — LLMs, RAG, Agentic AI, Coding Agents
 - **Infra** — Terraform, Docker, AWS, Bitbucket Pipelines
 
